@@ -53,4 +53,6 @@ git clone git@github.com:sonia561/AutoTest.git
 
 git status
 git commit -m "文件"
+第一次使用如下方式推送
+git push --set-upstream AutoTest master
 */
